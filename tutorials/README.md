@@ -1,4 +1,4 @@
-# Hi ther, I'm Petrus!
+# Hi there, I'm Petrus!
 
 I am a passionate Informatics graduate on ad dedicated journey to achieve my dream of becoming a professional programmer. While I have experience exploring various technologies, I have chosen **C#** as my primary language to build robust, efficient, and scalable software.
 
